@@ -1,0 +1,4 @@
+Запушить все ветки на внешний репозиторий git push origin --all
+Запушить структуру багрепорта на внешний репозиторий git push     git push --set-upstream origin BugReports
+Вмержить ветку BR в Main (пока на локальном репозитории)   git checkout main
+git merge BR
